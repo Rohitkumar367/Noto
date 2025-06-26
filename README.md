@@ -9,6 +9,6 @@ Noto is a sleek, full-stack note-making web application built using Django (back
 ### 📝 Register Page
 ![Register alt](https://github.com/Rohitkumar367/Noto/blob/f8238d919bed4cd9e5e43924321ab32a4363aadf/register.png)
 
-### 📒 Notes Page
-![Notes](src/assets/notes.png)
+### 📒 Home Page
+![Home alt](https://github.com/Rohitkumar367/Noto/blob/aa23f6407e7e3afaa6aef01cd13a45ce344012c4/home.png)
 
